@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports, reading, music, WEB Developwment, WEB DEVELOPMENT, & WEB DEVELOPMENT. 
 - 🌱 I’m currently learning Web Development.
 - I’m looking to collaborate with anyone.
-- 📫 How to reach me at rahsaanpickett@rocketmail.com
+- 📫 How to reach me at rpickettdev247@gmail.com
 
 <!---
 rpickett418/rpickett418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
