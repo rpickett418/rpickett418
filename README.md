@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rpickett418
+- 👋 Hi, I’m Rahsaan Pickett
 - 👀 I’m interested in sports, reading, music, WEB Developwment, WEB DEVELOPMENT, & WEB DEVELOPMENT. 
 - 🌱 I’m currently learning Web Development.
 - I’m looking to collaborate with anyone.
